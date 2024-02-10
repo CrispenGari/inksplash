@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "inksplash"
-version = "0.0.1"
+version = "1.0.0"
 authors = [
     {name = "Crispen Gari", email = "crispengari@gmail.com"},
 ]
@@ -14,19 +14,21 @@ license = {file = "LICENSE"}
 requires-python = ">=3.9"
 keywords = ["inksplash", "colors", "chameleon", "console", "styling", "text-formatting", "CLI", "ANSI", "print", "text-decoration" ]
 classifiers = [
-    "Development Status :: 3 - Alpha",
+    'Development Status :: 6 - Mature',
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3.9",
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Topic :: Terminals",
     "Topic :: Utilities",
+    'Programming Language :: Python',
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.10",
     "Operating System :: Unix",
     "Operating System :: MacOS :: MacOS X",
-    "Operating System :: Microsoft :: Windows"
+    "Operating System :: Microsoft :: Windows",
+    'Natural Language :: English'
 ]
 
 [tool.poetry.metadata]

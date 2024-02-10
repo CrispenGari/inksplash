@@ -2,7 +2,7 @@
 
 `inksplash` is a Python package that provides a versatile set of utilities for colorizing and styling text output in terminal environments.
 
-<p align="center"><img src="/logo.png" width="200" alt="logo"/></p>
+<p align="center"><img src="https://github.com/CrispenGari/inksplash/blob/main/logo.png?raw=true" width="200" alt="logo"/></p>
 
 ### Table of Contents
 
@@ -37,7 +37,9 @@ from inksplash import chameleon
 print(chameleon.bg_bright_green(chameleon.italic(chameleon.black("Hello world"))))
 ```
 
-<p align="center"><img src="/images/demo.jpg" alt="demo" with="300"/></p>
+Output:
+
+<p align="center"><img src="https://github.com/CrispenGari/inksplash/blob/main/images/demo.jpg?raw=true" alt="demo" with="300"/></p>
 
 This example demonstrates how to use `chameleon` functions from `inksplash` to colorize and style text output. In this case, it applies a bright green background, italic style, and black text color to the string "Hello world".
 
