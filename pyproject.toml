@@ -45,9 +45,11 @@ changelog = "https://github.com/CrispenGari/inksplash/blob/main/CHANGELOG.md"
 issues = "https://github.com/CrispenGari/inksplash/issues"
 
 
+[tool.spin]
+package = 'inksplash'
 
 [tool.setuptools.packages.find]
-where = []  
+where = ['.']  
 include = ["inksplash*"] 
 exclude = ["inksplash.tests*"]  
 namespaces = false 
