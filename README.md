@@ -4,6 +4,15 @@
 
 <p align="center"><img src="https://github.com/CrispenGari/inksplash/blob/main/logo.png?raw=true" width="200" alt="logo"/></p>
 
+---
+
+<p align="center">
+  <a href="https://pypi.python.org/pypi/inksplash"><img src="https://badge.fury.io/py/inksplash.svg"></a>
+  <a href="https://github.com/crispengari/inksplash/actions/workflows/ci.yml"><img src="https://github.com/crispengari/inksplash/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green"></a>
+  <a href="https://pypi.python.org/pypi/inksplash"><img src="https://img.shields.io/pypi/pyversions/inksplash.svg"></a>
+</p>
+
 ### Table of Contents
 
 - [inksplash](#inksplash)
