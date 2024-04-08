@@ -26,6 +26,7 @@
   - [3. Bright Text Colors](#3-bright-text-colors)
   - [4. Background Color](#4-background-color)
   - [5. Bright background styles](#5-bright-background-styles)
+  - [Docs](#docs)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -575,6 +576,10 @@ Applies strikethrough style to the text.
    **Returns:**
 
    - str: The input text with a bright white background color.
+
+#### Docs
+
+You can read more in the [documentation](https://inksplash.readthedocs.io/en/latest/index.html).
 
 ### Contributing
 
