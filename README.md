@@ -25,7 +25,7 @@
   - [2. Text Styles](#2-text-styles)
   - [3. Bright Text Colors](#3-bright-text-colors)
   - [4. Background Color](#4-background-color)
-  - [Bright background styles](#bright-background-styles)
+  - [5. Bright background styles](#5-bright-background-styles)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -464,7 +464,7 @@ Applies strikethrough style to the text.
 
 ---
 
-#### Bright background styles
+#### 5. Bright background styles
 
 1. **`bg_bright_black`**
 
